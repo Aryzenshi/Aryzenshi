@@ -13,7 +13,7 @@
 ### 🔧 Tech Stack
 - 💻 Frontend: `HTML`, `CSS`, `JavaScript`, `React.js`
 <!-- - 📱 Mobile: `Kotlin` (Android) -->
-- 🧩 Backend & DB: `Java`, `MySQL`
+- 🧩 Backend & DB: `Python`, `Java`, `MySQL`
 
 ---
 
