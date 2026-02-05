@@ -3,7 +3,7 @@
 ### 🧠 About Me
 - 🎓 3rd Year B.Tech Student at Vellore Institute of Technology  
 - 👀 Passionate about **AI/ML**, and **Open-World games**  
-- 🌱 Currently learning: `Java` and `Flask`
+- 🌱 Currently learning: `Advanced Python` and `Flask`
 - 💡 Exploring projects in `game development` and `AI Agents` and would love to collaborate on **AI Projects**
 - ⚡ Fun Fact: I really like listening to songs while working 😄  
 - 😎 Pronouns: he/him
@@ -13,7 +13,8 @@
 ### 🔧 Tech Stack
 - 💻 Frontend: `HTML`, `CSS`, `JavaScript`, `React.js`
 <!-- - 📱 Mobile: `Kotlin` (Android) -->
-- 🧩 Backend & DB: `Python`, `Java`, `MySQL`
+- 🧩 Backend & DB: `Python`, `Java`, `MySQL`, `PostgreSQL`
+- ⚙️ Tools - `Docker`, `Github`, `Git`, `VS Code`
 
 ---
 
