@@ -1,9 +1,9 @@
 # 👋 Hey there, I'm Aaryav Rastogi (@Aryzenshi)
 
 ### 🧠 About Me
-- 🎓 3rd Year B.Tech Student at Vellore Institute of Technology  
+- 🎓 Final Year B.Tech Student at Vellore Institute of Technology  
 - 👀 Passionate about **AI/ML**, and **Open-World games**  
-- 🌱 Currently learning: `Advanced Python` and `Flask`
+- 🌱 Currently learning: `Advanced Python` and `AI - LLMs`
 - 💡 Exploring projects in `game development` and `AI Agents` and would love to collaborate on **AI Projects**
 - ⚡ Fun Fact: I really like listening to songs while working 😄  
 - 😎 Pronouns: he/him
