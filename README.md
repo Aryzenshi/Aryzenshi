@@ -11,7 +11,7 @@
 ---
 
 ### 🔧 Tech Stack
-- 💻 Frontend: `HTML`, `CSS`, `JavaScript`, `React.js`
+- 💻 Frontend: `HTML`, `CSS`, `JavaScript`
 <!-- - 📱 Mobile: `Kotlin` (Android) -->
 - 🧩 Backend & DB: `Python`, `Java`, `MySQL`, `PostgreSQL`
 - ⚙️ Tools - `Docker`, `Github`, `Git`, `VS Code`
